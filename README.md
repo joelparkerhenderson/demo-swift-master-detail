@@ -6,7 +6,7 @@ This README describes how to create the project, if you want to try doing it you
 
 ## How to create the project
 
-1, Launch Xcode.
+1. Launch Xcode.
 
   * Choose "New Project".
 
