@@ -1,6 +1,15 @@
 # Demo Swift Master Detail
 
-This is a demonstration of Apple iOS Xcode using the Swift language to show a Master-Detail user interface. The interface can create an item, open an item, and delete an item. 
+This demonstration shows:
+
+  * The [Swift](http://swift.org) programming language with
+    [Apple](http://apple.com)
+    [iOS](http://www.apple.com/ios/)
+    [Xcode](https://developer.apple.com/xcode/)
+
+  * How to create a [master-detail interface](https://en.wikipedia.org/wiki/Master%E2%80%93detail_interface). 
+
+  * The interface can create an item, open an item, and delete an item. 
 
 This README describes how to create the project, if you want to try doing it yourself.
 
