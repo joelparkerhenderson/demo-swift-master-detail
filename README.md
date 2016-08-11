@@ -66,8 +66,8 @@ This README describes how to create the project, if you want to try doing it you
 ## Tracking
 
 * Package: demo_swift_master_detail
-* Version: 1.0.0
+* Version: 1.0.1
 * Created: 2016-04-09
-* Updated: 2016-04-28
-* License: GPL
+* Updated: 2016-08-11
+* License: BSD, GPL, MIT
 * Contact: Joel Parker Henderson (joel@joelparkerhenderson.com)
