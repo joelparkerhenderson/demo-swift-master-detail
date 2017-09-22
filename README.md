@@ -29,7 +29,7 @@ If you clone this repo, then be aware that there are multiple git branches, so p
 
 Launch Xcode and create a new Xcode project. 
 
-  * We call ours "Demo Swift Master Detail" and we choose the template "Master-Detail Application".
+  * Use the iOS template "Master-Detail Application" and Product Name "Demo Swift Master Detail".
 
   * [Help](doc/setup/create_a_new_xcode_project.md)
   
