@@ -29,7 +29,7 @@ If you clone this repo, then be aware that there are multiple git branches, so p
 
 Launch Xcode and create a new Xcode project. 
 
-  * We call ours "Demo Swift Charts" and we choose the template "Master-Detail Application".
+  * We call ours "Demo Swift Master Detail" and we choose the template "Master-Detail Application".
 
   * [Help](doc/setup/create_a_new_xcode_project.md)
   
@@ -38,19 +38,19 @@ Launch Xcode and create a new Xcode project.
 
 Create an item.
 
-  * Click the button "+" which creates a master item.
+  * Tap the button "+" which creates a master item.
 
   * The master item automatically shows the creation date and time.
 
 Open an item.
 
-  * Click the item, which slides open to show the detail view of the item.
+  * Tap the item, which slides open to show the detail view of the item.
 
   * To return to the master list, tap the upper left label "Master".
 
 Delete an item.
 
-  * Click-press the item and drag left, which slides open the label "Delete".
+  * Tap-press the item and drag left, which slides open the label "Delete".
 
   * Tap the label "Delete".
 
