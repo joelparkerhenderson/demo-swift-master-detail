@@ -4,70 +4,62 @@ This demonstration shows:
 
   * The [Swift](http://swift.org) programming language with
     [Apple](http://apple.com)
-    [iOS](http://www.apple.com/ios/)
     [Xcode](https://developer.apple.com/xcode/)
+    [iOS](http://www.apple.com/ios/)
 
   * How to create a [master-detail interface](https://en.wikipedia.org/wiki/Master%E2%80%93detail_interface). 
 
   * The interface can create an item, open an item, and delete an item. 
 
-This README describes how to create the project, if you want to try doing it yourself.
+This README describes how to create the demo.
 
-## How to create the project
 
-1. Launch Xcode.
+## Start
 
-  * Choose "New Project".
+To use this demo, you can clone this repo, or you can use this README to create your own project.
 
-1. You see the dialog "Choose a template for your new project".
+If you clone this repo, then be aware that there are multiple git branches, so pick the one you want.
 
-  * Select "iOS" then "Application".
+  * swift-4-xcode-9: Swift version 4, Xcode version 9, iOS version 11.
 
-  * Choose the "Master-Detail Application" icon.
+  * swift-3-xcode-8: Swift version 3, Xcode version 8, iOS version 10.
 
-  * Click the button "Next".
 
-1. You see the dialog "Choose options for your new project".
+## Create the project
 
-  * For "Product Name", type "Demo Swift Master Detail".
+Launch Xcode and create a new Xcode project. 
 
-  * For "Organization Name", type your own, typical a company name, team name, or similiar. For example, "My Example Company Name".
+  * We call ours "Demo Swift Charts" and we choose the template "Master-Detail Application".
 
-  * For "Organization Identifier", type your own, typically a reverse-domain-name. For example, "com.example".
-
-  * Click the button "Next".
-
-1. You see the file chooser.
-
-  * Choose where to save your project.
-
-  * Click the button "Create".
+  * [Help](doc/setup/create_a_new_xcode_project.md)
+  
 
 ## How to use the app
 
-1. Create an item.
+Create an item.
 
   * Click the button "+" which creates a master item.
 
   * The master item automatically shows the creation date and time.
 
-1. Open an item.
+Open an item.
 
   * Click the item, which slides open to show the detail view of the item.
 
   * To return to the master list, tap the upper left label "Master".
 
-1. Delete an item.
+Delete an item.
 
   * Click-press the item and drag left, which slides open the label "Delete".
 
   * Tap the label "Delete".
 
+
 ## Tracking
 
 * Package: demo_swift_master_detail
-* Version: 1.0.1
+* Version: 3.0.0
 * Created: 2016-04-09
-* Updated: 2016-08-11
+* Updated: 2017-09-22
 * License: BSD, GPL, MIT
-* Contact: Joel Parker Henderson (joel@joelparkerhenderson.com)
+* Contact: Joel Parker Henderson (http://joelparkerhenderson.com)
